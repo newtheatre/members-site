@@ -1,0 +1,29 @@
+====== Room Booking ======
+{{ rooms.png?200|}}
+
+The room booking system is based on [[http://mrbs.sourceforge.net/|MRBS]] and is avaliable at http://rooms.newtheatre.org.uk.
+
+Any verified members of this site can log into the system using the same username/password and request room bookings. Certain members of the committee can approve these:
+
+  * Productions Coordinator - for [[archived:in-house]] shows
+  * Fringe Coordinator - for [[archived:fringe]] shows
+  * Theatre Manager - for all other uses of the room
+
+===== Using on phones / other devices =====
+The inital page on the site is today's timetable so that may be of use on a phone without too much tapping.
+
+The bookings can also be subscribed to in a calendar app.
+
+  * **Studio** http://rooms.newtheatre.org.uk/ical.php?room=11
+  * **Rehersal Room** http://rooms.newtheatre.org.uk/ical.php?room=12
+
+==== iPhone ====
+  * Go Settings > Mail, Contacts, Calendars
+  * Add Account > Other > Subscribed Calendar
+  * Server is //rooms.newtheatre.org.uk/ical.php?room=11//
+  * Verifying...
+  * 'Cannot connect using SSL' > Continue
+  * You probably want 'Remove Alarms'
+  * Save
+  * **Repeat** but for the server put //rooms.newtheatre.org.uk/ical.php?room=12//
+
